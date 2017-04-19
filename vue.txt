@@ -1,0 +1,9 @@
+cnpm install -g vue-cli 搭建模板
+vue init webpack vue_test(项目文件夹名)  创建项目
+
+dist文件夹找不到
+config/index.js  build/assetsPublicPath 改为''
+
+@mouseenter 鼠标hover事件
+
+vue滚动插件 npm install --save vue-mugen-scroll
